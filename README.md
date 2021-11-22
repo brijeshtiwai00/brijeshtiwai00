@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrijeshTiwari
+- 👋 Hi, I’m @BrijeshTiwari DevOps Engineer.
 - 👀 I’m interested in DevOps Tools 
 - 🌱 I’m currently learning Terraform and Kubernetes
 - 📫 You can reach me on Linkedin : https://www.linkedin.com/in/brijesh-tiwari/
